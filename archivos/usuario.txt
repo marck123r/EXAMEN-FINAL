@@ -1,0 +1,5 @@
+0987652;0987;cliente;mario llica;san juan 234;alonso@aser.gmil 
+4568757;0098;admin  ;juan perez;los angeles 302;juan@asd.com 
+7843652;9876;cliente;carlos santos;las malvinas;carlos@asd.com 
+2343120;3452;cliente;victor tazo;el molle 211;victor@asd.com 
+4532231;2300;cliente;ines isario;las ramblas 097;ines@gmail.com 

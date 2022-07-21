@@ -1,0 +1,7 @@
+009;ens.pollo;entrante;12
+007;ens. mixta;entrante;09
+002;aji de gallina;principal;23
+001;carne guisada;principal;34
+033;helado v.;postre;10
+045;tarta de fresa;postre;16
+012;escalopines ;principal;34

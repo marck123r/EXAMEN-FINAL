@@ -1,0 +1,2 @@
+001	carne guisada	34
+045	tarta de fresa	16
